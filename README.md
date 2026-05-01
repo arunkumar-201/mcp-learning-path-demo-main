@@ -43,10 +43,15 @@ It demonstrates how modern AI systems can guide users through concepts in a stru
 ---
 ## mcp-learning-path-demo-main/
 │── app.py
-│── modules/
-│── data/
-│── utils/
+
+│── modules
+
+│── data
+
+│── utils
+
 │── requirements.txt
+
 │── README.md
 
 
