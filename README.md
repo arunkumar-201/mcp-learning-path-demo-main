@@ -24,11 +24,16 @@ It demonstrates how modern AI systems can guide users through concepts in a stru
 
 ## 🚀 Features
 
-- 🎯 Generate structured learning paths  
-- 📚 Topic-wise modular learning  
-- 🔍 Context-aware knowledge retrieval  
-- 🤖 AI-generated explanations  
-- ⚡ Lightweight and fast  
+- 🎯 Generate structured learning paths
+  
+- 📚 Topic-wise modular learning
+    
+- 🔍 Context-aware knowledge retrieval
+   
+- 🤖 AI-generated explanations
+    
+- ⚡ Lightweight and fast
+   
 - 🖥️ Interactive interface (Streamlit)
 
 ---
@@ -81,7 +86,9 @@ User progresses step-by-step
 🎯 Use Cases
 
 📘 Student learning guidance
+
 👨‍💻 Developer roadmap planning
+
 🤖 AI tutoring systems
 📊 Knowledge organization
 🔮 Future Improvements
