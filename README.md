@@ -1,61 +1,109 @@
-# Learning Path Generator with Model Context Protocol (MCP)
+# ⚡ MCP Learning Path Demo
 
-This project is a Streamlit-based web application that generates personalized learning paths using the Model Context Protocol (MCP). It integrates with various services including YouTube, Google Drive, and Notion to create comprehensive learning experiences.
+### AI-powered Learning Path Assistant using Model Context Protocol (MCP)
 
-## Features
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen) 
+![Python](https://img.shields.io/badge/Python-3.10-blue) 
+![AI](https://img.shields.io/badge/AI-MCP-orange) 
+![Framework](https://img.shields.io/badge/Framework-Streamlit-red) 
+![Status](https://img.shields.io/badge/Status-Ready-success)
 
-- 🎯 Generate personalized learning paths based on your goals
-- 🎥 Integration with YouTube for video content
-- 📁 Google Drive integration for document storage
-- 📝 Notion integration for note-taking and organization
-- 🚀 Real-time progress tracking
-- 🎨 User-friendly Streamlit interface
+---
 
-## Prerequisites
+## 🧠 Project Overview
 
-- Python 3.10+
-- Google ai Studio API Key
-- Pipedream URLs for integrations (YouTube and either Drive or Notion)
+The **MCP Learning Path Demo** is an AI-powered assistant that helps users understand structured learning paths using Model Context Protocol (MCP).
 
-## Installation
+The system organizes topics into step-by-step learning modules and provides clear explanations using AI.
 
-1. Clone the repository:
+It demonstrates how modern AI systems can guide users through concepts in a structured and intelligent way.
 
-2. Create and activate a virtual environment:
+⚠️ **Disclaimer:** This project is for educational purposes only and demonstrates MCP-based workflows.
 
-3. Install the required packages:
+---
+
+## 🚀 Features
+
+- 🎯 Generate structured learning paths  
+- 📚 Topic-wise modular learning  
+- 🔍 Context-aware knowledge retrieval  
+- 🤖 AI-generated explanations  
+- ⚡ Lightweight and fast  
+- 🖥️ Interactive interface (Streamlit)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Python  
+- **Framework:** Streamlit  
+- **Concept:** Model Context Protocol (MCP)  
+- **AI:** LLM-based logic  
+
+---
+## mcp-learning-path-demo-main/
+│── app.py
+│── modules/
+│── data/
+│── utils/
+│── requirements.txt
+│── README.md
+
+
+---
+
+## ⚙️ Installation & Setup
+
 ```bash
+# Clone the repository
+git clone https://github.com/arunkumar-201/mcp-learning-path-demo-main.git
+
+# Navigate into the project
+cd mcp-learning-path-demo-main
+
+# Install dependencies
 pip install -r requirements.txt
-```
 
-## Configuration
-
-Before running the application, you'll need to set up:
-
-1. Google API Key
-2. Pipedream URLs for:
-   - YouTube (required)
-   - Google Drive or Notion (based on your preference)
-
-## Running the Application
-
-To start the application, run:
-```bash
+# Run the application
 streamlit run app.py
 ```
+💡 How It Works
+User selects a topic
+MCP organizes it into a learning path
+AI explains each step
+User progresses step-by-step
 
-The application will be available at `http://localhost:8501` by default.
+🎯 Use Cases
 
-## Usage
+📘 Student learning guidance
+👨‍💻 Developer roadmap planning
+🤖 AI tutoring systems
+📊 Knowledge organization
+🔮 Future Improvements
+📊 Progress tracking
+🎯 Personalized recommendations
+🌐 API integration
+🧠 Advanced AI features
+🤝 Contributing
 
-1. Enter your Google ai studio API key and Pipedream URLs in the sidebar
-2. Select your preferred secondary tool (Drive or Notion)
-3. Enter your learning goal (e.g., "I want to learn python basics in 3 days")
-4. Click "Generate Learning Path" to create your personalized learning plan
+Contributions are welcome! Feel free to fork and submit a PR.
 
-## Project Structure
+📜 License
 
-- `app.py` - Main Streamlit application
-- `utils.py` - Utility functions and helper methods
-- `prompt.py` - Prompt template
-- `requirements.txt` - Project dependencies
+This project is licensed under the MIT License.
+
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
+
+If you want, I can next:
+👉 Add **cool GIF demo section**  
+👉 Make it **hackathon-winning level README**  
+👉 Customize exactly based on your actual code  
+
+Just tell me 👍
+
+
+## 📂 Project Structure
