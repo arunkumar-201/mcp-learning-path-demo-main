@@ -116,11 +116,11 @@ This project is licensed under the MIT License.
 If you like this project, give it a ⭐ on GitHub!
 
 ---
-
-If you want, I can next:
-👉 Add **cool GIF demo section**  
-👉 Make it **hackathon-winning level README**  
-👉 Customize exactly based on your actual code  
-
 Just tell me 👍
 
+👨‍💻 Author
+
+Arun Kumar
+
+GitHub:
+https://github.com/arunkumar-201
