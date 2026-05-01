@@ -90,12 +90,19 @@ User progresses step-by-step
 👨‍💻 Developer roadmap planning
 
 🤖 AI tutoring systems
+
 📊 Knowledge organization
+
 🔮 Future Improvements
+
 📊 Progress tracking
+
 🎯 Personalized recommendations
+
 🌐 API integration
+
 🧠 Advanced AI features
+
 🤝 Contributing
 
 Contributions are welcome! Feel free to fork and submit a PR.
